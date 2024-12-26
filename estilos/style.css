@@ -176,6 +176,9 @@ body{
     padding-left: 5%;
     padding-bottom: 5%;
 }
+.content-descripcion{
+    height:100%;
+}
 
 .content-button{
     background-color: #4d0095; 
