@@ -133,10 +133,3 @@ img{
    
  }
  
- 
- @media screen and (min-height: 500px) {
-   .modal-card{
-      
-      padding: 1rem 1.25rem 2rem;
-   }
- }
